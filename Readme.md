@@ -1,7 +1,3 @@
-Thanks for the details! Here’s a tailored README based on your description:
-
----
-
 # Exam Hall Seating Arrangement
 
 ## Overview
