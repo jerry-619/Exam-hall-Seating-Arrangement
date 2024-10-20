@@ -18,4 +18,3 @@ Timestrap
 
 [![video](https://drive.google.com/uc?export=view&id=1TRbe8_IEHimr0JNfdF1iJqcpf0IIBhg9)](https://drive.google.com/uc?export=view&id=1qy0NM_FFCHiv52rBEg9LwbLELDUFyq7x)
 
-Find implementation screenshots [here](https://github.com/AkshataGirkar/Exam-Hall-Seating-Arrangement/tree/main/Implementation%20screenshots)
